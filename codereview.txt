@@ -1,0 +1,18 @@
+Wszystkie treści exceptionów do constów
+Dobrze by było dodać settery jeżeli żaden z parametrów nie jest wymagany dla całego obiektu
+
+:63 Zakładając że dajemy możliwość wstawianie nuli, musimy dać możliwość pobrania nuli w getterach.
+
+:97 Można odwrócić warunek i kod będzie bardziej przejrzysty, a najlepiej opakować to w osobną metode
+
+:102 Można zrobić $this->counter--
+
+:137 Jeżeli nowa cena nie może być nullem nie dodajmy „?” i możemy dzięki temu pozbyć się sprawdzania tego niżej
+
+:139 Czy musimy sprawdzać counter?
+
+:170 wcięło enter przed {
+
+:172 Czy powinniśmy zwracać pustego stringa?
+
+
